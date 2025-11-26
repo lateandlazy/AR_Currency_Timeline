@@ -4,8 +4,6 @@
 
 **ARCurrencyTimeline** is a Unity-based Augmented Reality application that generates a linear graph of Forex (Foreign Exchange) rates. Using the Alpha Vantage API, it fetches real-time data and visualizes currency timelines directly on your wall or any vertical surface.
 
- 
-*(Replace the above line with a screenshot or GIF of your app in action)*
 
 ## 🌟 Features
 
@@ -50,6 +48,9 @@ If you want to clone and edit the project, follow these steps:
     * Switch platform to **Android**.
     * Click **Build and Run**.
 
+**Screenshot**
+![WhatsApp Image 2025-11-24 at 15 46 33_b0bcb797](https://github.com/user-attachments/assets/1182f868-3b5a-4e42-b320-8cfc1928d085)
+
 ## ⚠️ Important Note
 
 The API Key is sensitive data. The key included in the source code (if any) is a placeholder. Please use your own Alpha Vantage API key to ensure rate limits are not exceeded.
@@ -60,6 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contact
 
-* **Developer:** [Rehan Shamim][Priyanshu Tiwari]
-* **GitHub:** [Your Profile Link]
-* **Email:** [Your Email - Optional]
+* **Developer:** Rehan Shamim , Priyanshu Tiwari
+* **GitHub:**
+* **Email:**
+* **LinkedIn**
